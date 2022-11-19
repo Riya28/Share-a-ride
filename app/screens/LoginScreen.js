@@ -20,8 +20,8 @@ import { TouchableOpacity } from "react-native-gesture-handler";
 const LoginScreen = (props) => {
 
 
-    const email = "abhirup@gmail.com"
-    const pswd = "password"
+    const email = "riya@gmail.com"
+    const pswd = "1234"
     const screenHeight = Dimensions.get('window').height
 
     const [userName, SetUserName] = useState("")
