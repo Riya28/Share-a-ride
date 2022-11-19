@@ -22,8 +22,8 @@ For best performance we recommend using an iphone/ios device for testing.
 
 1. For Login
 
-	Login Id : abhirup@gmail.com
-   	Password : password
+	Login Id : riya@gmail.com
+   	Password : 1234
 
 2. For SignUp 
 	
