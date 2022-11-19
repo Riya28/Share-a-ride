@@ -3,23 +3,11 @@
              SHARE A RIDE
 ##########################################
 
-GitHub: https://github.com/abhirup706/share-a-ride
-
 Technologies used - Javascripts, React Native, Expo Go
 
 For best performance we recommend using an iphone/ios device for testing.
 
 ##########Instructions to Install##########
-
-1. Install Expo Go on your mobile device using app store or play store (preferably iOS)
-
-2. Make an account on Expo Go (please do share account email with us to whitelist and best experience)
-
-3. Open link - https://expo.dev/@abhirup706/share-a-ride?serviceType=classic&distribution=expo-go
-
-4. Scan QR using your app
-
------OR-----
 
 1. Install Expo Go on your mobile device (preferabbly iOS)
 2. Unzip (or clone from git) the source code on your computer
