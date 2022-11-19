@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Share-A-Ride",
+    "userInterfaceStyle": "automatic",
+    "slug": "share-a-ride",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.abhirup706.share-a-ride"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/logo.png"
+    },
+    "description": "A carpooling platform developed for the people commuting to and from the University of Texas at Dallas",
+    "githubUrl": "https://github.com/abhirup706/share-a-ride"
+  }
+}
